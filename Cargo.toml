@@ -1,0 +1,9 @@
+[package]
+name = "time-attack"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fixed = "1.28.0"
+fixed_trigonometry = "0.4.4"
+softbuffer = "0.4.6"
